@@ -1,5 +1,3 @@
-# Clip-Trace
-A modern, lightweight clipboard history tool with a sleek GUI.
 # ClipTrace
 
 ClipTrace is a **modern clipboard logger** with a smooth GUI built using Python and CustomTkinter. It runs silently in the background, capturing everything you copy—and displaying it in a clean, searchable window with timestamps, clipboard history, and a "copy again" feature.
